@@ -24,3 +24,8 @@ Comprobar usuario actual:
 
 ```bash
 whoami
+
+
+## Comprobar IP
+
+ip a
