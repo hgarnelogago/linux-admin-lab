@@ -29,7 +29,7 @@ Estoy usando una máquina virtual con Ubuntu Server para practicar administraci�
 - [x] Crear máquina virtual Ubuntu Server
 - [x] Acceder por SSH
 - [x] Crear repositorio en GitHub
-- [ ] Documentar comandos básicos
+- [x] Documentar comandos básicos
 - [ ] Practicar usuarios y permisos
 - [ ] Practicar servicios y logs
 - [ ] Instalar Docker
